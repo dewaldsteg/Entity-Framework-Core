@@ -3,3 +3,5 @@
 ################################################################################
 
 /Entity-Framework-Core/.vs/Entity-Framework-Core/v16
+/Entity-Framework-Core/.vs/Entity-Framework-Core/DesignTimeBuild
+/Entity-Framework-Core/bin/Debug/netcoreapp3.1
